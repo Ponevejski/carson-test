@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carson-test/static/css/main.f10d6334.css",
+    "main.js": "/carson-test/static/js/main.bbbf4403.js",
+    "index.html": "/carson-test/index.html",
+    "main.f10d6334.css.map": "/carson-test/static/css/main.f10d6334.css.map",
+    "main.bbbf4403.js.map": "/carson-test/static/js/main.bbbf4403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10d6334.css",
+    "static/js/main.bbbf4403.js"
+  ]
+}
