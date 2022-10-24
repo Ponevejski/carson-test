@@ -1,7 +1,7 @@
 {
   "name": "carson",
   "version": "0.1.0",
-  "homepage": "https://Ponevejski.github.io/carson-test-gh-pages",
+  "homepage": "https://ponevejski.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
